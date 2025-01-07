@@ -1,7 +1,7 @@
 
 Drop-in enhanced givens rotary block --  Its like a rubiks cube of embbedings :)
 
-Think of regular embeddings as a rotating 3d block in space.. Now add columns and rows that rotate and then rotate the faces of each cube : 
+Think of regular rope embeddings as a rotating 3d block in space.. Now add columns and rows that rotate and then rotate the faces of each resulting cube : 
 
 class CombinedRotaryEmbedding(nn.Module):
 
