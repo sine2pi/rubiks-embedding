@@ -1,4 +1,10 @@
+
+Drop-in enhanced givens rotary block --  Its like a rubiks cube of embbedings :)
+
+Think of regular embeddings as a rotating 3d block in space.. Now add columns and rows that rotate and then rotate the faces of each cube : 
+
 class CombinedRotaryEmbedding(nn.Module):
+
     def __init__(self, n_state, n_head, num_rotations, base=10000, checkpointing=False):
         super().__init__()
         self.n_state = n_state
