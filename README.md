@@ -1,8 +1,8 @@
 ---
 license: apache-2.0
 ---
-
-https://colab.research.google.com/gist/sine2pi/0b37ed99d1d0604aa3921f3359c3e352/modelh.ipynb
+[
+(https://colab.research.google.com/drive/1p-czYknUS1gxF-63CIs1PeKQZpcbtO0s)
 
 Drop-in enhanced givens rotary block --  Its like a rubiks cube of embbedings :)
 
